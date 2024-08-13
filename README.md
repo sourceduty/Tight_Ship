@@ -11,7 +11,7 @@ In contemporary usage, "running a tight ship" is often used to compliment someon
 The connotations of the phrase are generally positive, associated with efficiency, discipline, and control. Yet, there can be a nuanced interpretation where it might hint at a lack of leniency or an overly rigid approach to management. The effectiveness of "running a tight ship" can depend on the situation and the balance between maintaining order and allowing some degree of adaptability. 
 
 #
-### Tight Building Ship
+### Tight Ship Concept
 
 When used metaphorically, this describes any organization, business, or group that is managed with a high level of efficiency, discipline, and orderliness. The metaphorical usage takes the characteristics of a well-run ship and applies them to other contexts, such as running a company, managing a project, or leading a team.
 
