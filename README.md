@@ -1,6 +1,6 @@
 ![Tight Ship](https://github.com/user-attachments/assets/1b5995ae-ecad-4d16-916f-56b71fdb2c7b)
 
-> 🚢 The phrase "tight ship" used as an idiom or metaphor.
+> The phrase "tight ship" used as an idiom or metaphor.
 
 #
 
