@@ -31,6 +31,8 @@ However, the challenges in managing a building on land differ from those at sea.
 [Boats](https://github.com/sourceduty/Boats)
 <br>
 [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+<br>
+[Office Comfort](https://github.com/sourceduty/Office_Comfort)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
