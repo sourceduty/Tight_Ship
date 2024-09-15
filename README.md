@@ -20,7 +20,7 @@ Comparatively, the concept of managing a building on land, such as an office or 
 However, the challenges in managing a building on land differ from those at sea. While a ship must be self-sufficient and capable of dealing with emergencies far from help, a building on land has more immediate access to resources and support. This difference allows for some flexibility in how tightly things need to be managed. For instance, while a ship's crew might have to rely solely on their resources, a building's management can call in external experts for repairs or additional support. Despite these differences, the underlying principles of discipline, efficiency, and order that define a "tight ship" remain relevant in both contexts.
 
 #
-### Boat Roofed
+### Land Ships
 
 ![Boat Roof](https://github.com/user-attachments/assets/0b39b1a2-402f-46f8-81a7-9dc72d633348)
 
