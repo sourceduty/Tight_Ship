@@ -22,7 +22,7 @@ However, the challenges in managing a building on land differ from those at sea.
 #
 ### Boat Roofed
 
-![Boat Roof](https://github.com/user-attachments/assets/9cc7d49c-2df0-43ca-bfcf-554ae0581648)
+![Boat Roof](https://github.com/user-attachments/assets/0b39b1a2-402f-46f8-81a7-9dc72d633348)
 
 Throughout history, old ships have been repurposed and disassembled to build structures across the world, leaving behind unique architectural legacies. In coastal regions, ship parts such as timber beams, iron frames, and decorative elements were reused to construct homes, warehouses, and public buildings. For instance, in England, wood from decommissioned warships from the 17th and 18th centuries was incorporated into inns and manor houses. The sturdy oak planks and masts were valued for their durability and strength, transforming ships that once sailed the seas into lasting architectural features on land.
 
