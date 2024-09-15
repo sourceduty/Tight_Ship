@@ -20,6 +20,15 @@ Comparatively, the concept of managing a building on land, such as an office or 
 However, the challenges in managing a building on land differ from those at sea. While a ship must be self-sufficient and capable of dealing with emergencies far from help, a building on land has more immediate access to resources and support. This difference allows for some flexibility in how tightly things need to be managed. For instance, while a ship's crew might have to rely solely on their resources, a building's management can call in external experts for repairs or additional support. Despite these differences, the underlying principles of discipline, efficiency, and order that define a "tight ship" remain relevant in both contexts.
 
 #
+### Boat Roofed
+
+![Boat Roof](https://github.com/user-attachments/assets/9cc7d49c-2df0-43ca-bfcf-554ae0581648)
+
+Throughout history, old ships have been repurposed and disassembled to build structures across the world, leaving behind unique architectural legacies. In coastal regions, ship parts such as timber beams, iron frames, and decorative elements were reused to construct homes, warehouses, and public buildings. For instance, in England, wood from decommissioned warships from the 17th and 18th centuries was incorporated into inns and manor houses. The sturdy oak planks and masts were valued for their durability and strength, transforming ships that once sailed the seas into lasting architectural features on land.
+
+This practice can also be seen outside Europe, where ship remnants became integral to local architecture. In Zanzibar, ship timber was used in constructing traditional Swahili homes, blending maritime history with local craftsmanship. In places like Iceland and the Faroe Islands, ship parts helped build homes and fishing huts in remote areas where materials were scarce. These buildings, often weathered by time, stand as a testament to the resourcefulness of communities that found new life for these vessels, weaving maritime heritage into the built environment.
+
+#
 
 ![Ship](https://github.com/user-attachments/assets/a2886de7-37a2-47ad-bf8d-21658af64b52)
 
