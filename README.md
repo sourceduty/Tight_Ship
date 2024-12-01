@@ -13,6 +13,8 @@ The connotations of the phrase are generally positive, associated with efficienc
 #
 ### Tight Ship Concept
 
+![Boxers](https://github.com/user-attachments/assets/eac5fabf-5300-49e9-b741-9d22fe21916f)
+
 When used metaphorically, this describes any organization, business, or group that is managed with a high level of efficiency, discipline, and orderliness. The metaphorical usage takes the characteristics of a well-run ship and applies them to other contexts, such as running a company, managing a project, or leading a team.
 
 Comparatively, the concept of managing a building on land, such as an office or a factory, shares similarities with the nautical idea of a "tight ship," though the context differs. Just as a ship requires careful management to function smoothly, a building on land requires efficient organization and maintenance. In this context, running a "tight ship" might refer to ensuring that the physical infrastructure is well-maintained, the operations within the building are streamlined, and that employees or occupants are well-coordinated. The goals are similar: to create an environment where everything functions efficiently and where potential problems are anticipated and managed before they escalate.
